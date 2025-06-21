@@ -1,2 +1,2 @@
-# -phi2-alpaca-lora-4bit-
-SFT Trained phi2 model on lora 4bit quantization.
+![image](https://github.com/user-attachments/assets/375447f6-face-49c1-a3ee-3d3dfd8643f4)
+
