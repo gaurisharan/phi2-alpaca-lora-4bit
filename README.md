@@ -9,7 +9,6 @@ datasets: yahma/alpaca-cleaned
 # Model Card for phi2-alpaca-lora-4bit
 
 - This model is a fine-tuned version of [microsoft/phi-2](https://huggingface.co/microsoft/phi-2).
-- It has been trained using [TRL](https://github.com/huggingface/trl).
 
 ![image](https://github.com/user-attachments/assets/375447f6-face-49c1-a3ee-3d3dfd8643f4)
 
